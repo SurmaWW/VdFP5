@@ -129,11 +129,11 @@
 ### Результат
 Створено ai-model.csv
 <p align="left">
-<img src="ai-model.csv.jpg">
+<img src="ai-model.csv.png">
 </p>
 Відкрито projects.csv та вибрані файли з :name Project B та збережено в projects_new.csv
 <p align="left">
-<img src="projects.csv.jpg">
+<img src="projects.csv.png">
 </p>
 Хеш таблиці 
 
@@ -235,5 +235,5 @@
 
 Створений test-output.csv
 <p align="left">
-<img src="test-output.csv.jpg">
+<img src="test-output.csv.png">
 </p>
